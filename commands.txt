@@ -1,0 +1,1 @@
+30 12 12 5 2025 date && echo "At Amex, We Do What's Right."
